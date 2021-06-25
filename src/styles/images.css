@@ -1,0 +1,32 @@
+
+.Photo{
+    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/betfullstack.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://user-images.githubusercontent.com/77952267/119202662-45c30400-ba5f-11eb-8814-3adedf70613a.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://scontent.fewr1-6.fna.fbcdn.net/v/t1.6435-9/p843x403/205151252_341682327358632_6428672021425554742_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=m9MLzdkptgcAX-b_MKE&tn=gYZyG_mdg5EBQgXd&_nc_ht=scontent.fewr1-6.fna&tp=6&oh=83bdfaec32ca9f07864d0cfdcb968121&oe=60D9FE39');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://github.com/thereal-baitjet/note-taker/raw/main/2021-05-28-15-14-stark-retreat-32872.herokuapp.com.png');
+    cursor: none;    
+}
+.project5{
+    background-image: url('https://github.com/thereal-baitjet/Work-Day-scheduler/blob/main/assets/2021-03-13-17-40-thereal-baitjet.github.io.png?raw=true');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://github.com/thereal-baitjet/PassWordGen2/raw/main/2021-02-27-18-58-thereal-baitjet.github.io.png');
+    cursor: none;
+}
+.parallax{
+    background-image: url('https://thereal-baitjet.github.io/juan-santos-pro-portfolio/blkwhtprofile.jpg');
+}
