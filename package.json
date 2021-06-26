@@ -1,5 +1,5 @@
 {
-  "homepage": "http://thereal-baitjet.github.io/React-Portfolio2",
+  "homepage": "https://thereal-baitjet.github.io/React-Portfolio2",
   "name": "react-portproj",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,6 @@
     "react": "^17.0.1",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.1",
-    "react-particles-js": "^3.4.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^1.1.5",
     "react-webpack": "^0.4.1",
@@ -22,7 +21,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,12 +33,24 @@
       "react-app/jest"
     ]
   },
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ],
+  "development": [
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ],
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "* [Installation](#installation)   * [Usage](#usage)   * [License](#license)   * [Contributing](#contributing)   * [Questions](#questions)   * [Credits](#credits)   * [Screenshot](#Screeshot)   * [Badges](#Badges)   ### Installation:   In order to install the necessary dependencies, open the console and run the following:   ```npm i```   ### Usage:   feel free to contact me   ### License:   This project is licensed under:   GNU   ### Contributing:   contact me if youd like to collaborate   ### Questions:   If you have any questions contact me on [GitHub](https://github.com/thereal-baitjet) or contact    Juan Santos at baitjet@gmail.com   ![picture](https://github.com/thereal-baitjet.png?size=80)    ### Credits     https://www.linkedin.com/in/kaustubhai/ kaustubh mishra    ### Screenshot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thereal-baitjet/React-Portfolio2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thereal-baitjet/React-Portfolio2/issues"
   }
 }
